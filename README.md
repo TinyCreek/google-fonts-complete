@@ -1,4 +1,6 @@
-# Google Fonts Complete
+# Google Fonts Complete (Tiny Creek fork)
+
+###### This fork exists to update the PostCSS dependency to resolve a Dependabot alert.
 
 A complete list of Google Fonts and their sources.
 
