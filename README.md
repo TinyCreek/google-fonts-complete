@@ -12,7 +12,7 @@ console.dir(fonts);
 
 yields
 
-``` json
+``` jsonc
 {
     "ABeeZee": {
         "category": "sans-serif",
